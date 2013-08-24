@@ -1,0 +1,12 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1377306523831 5057 23730fd0d5e720d1f719be1afc8c48fa7305da6c C:\Users\John\AndroidStudioProjects\DoubleSlashProject\DoubleSlash\build\res\all\debug\drawable-mdpi\ic_launcher.png
+1377306523664 358 091e35ca2515d6ac7be919846c232d358aac0f25 C:\Users\John\AndroidStudioProjects\DoubleSlashProject\DoubleSlash\build\res\all\debug\menu\main.xml
+1377306523664 774 3f98e1464186f0a4af65b903a3a4b6ae2bc2e3d5 C:\Users\John\AndroidStudioProjects\DoubleSlashProject\DoubleSlash\build\res\all\debug\layout\activity_main.xml
+1377306523689 1179 660d1f74b676d3b171a9c542b974029b82d11343 C:\Users\John\AndroidStudioProjects\DoubleSlashProject\DoubleSlash\build\res\all\debug\values\values.xml
+1377306523694 267 1c3914c6cc2183f4c99517e0ea9ee654d99346be C:\Users\John\AndroidStudioProjects\DoubleSlashProject\DoubleSlash\build\res\all\debug\values-sw720dp-land\values.xml
+1377306523691 352 035e00b5d0a55ec4c46faf864f42598d049ee376 C:\Users\John\AndroidStudioProjects\DoubleSlashProject\DoubleSlash\build\res\all\debug\values-v14\values.xml
+1377306523838 9193 450d3d44325fdf259810a60e6afa36103e186b3d C:\Users\John\AndroidStudioProjects\DoubleSlashProject\DoubleSlash\build\res\all\debug\drawable-hdpi\ic_launcher.png
+1377306523693 338 b3c2261cea79e6cdf21a17827ff45381c6e016f2 C:\Users\John\AndroidStudioProjects\DoubleSlashProject\DoubleSlash\build\res\all\debug\values-v11\values.xml
+1377306523850 14068 502cd84fa444f26d7ecfdf4a355064867977f236 C:\Users\John\AndroidStudioProjects\DoubleSlashProject\DoubleSlash\build\res\all\debug\drawable-xhdpi\ic_launcher.png
